@@ -1,8 +1,8 @@
-# Hi, im __tbored__
+# Hi, I'm __tbored__
 
-I do some coding from time to time, but usually i dont put it on GitHub.
+I do some coding from time to time, but usually I don't put it on GitHub.
 
-Im from Germany, wich is known for its terrible WiFi.
+I'm from Germany, which is known for its terrible WiFi.
 
 \
 I already know:
@@ -14,7 +14,7 @@ Im currently learning:
 \
 How to reach me:
 + Discord: eincoolermensch (i check my discord way more frequently than my twitter)
-+ X/Twitter: @tbored_js
++ X (formerly known as Twitter) [@tbored_js](https://x.com/@tbored_js)
 
 \
 _so uhh do whatever you want here_

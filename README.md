@@ -12,4 +12,4 @@ Coding projects I'm currently working on:
 + tbored.de overhaul
 
 \
-_"Open-source does not mean it has to be good or well-comented code"_ - me
+_"Open-source does not mean it has to be good or well-comented code"_ - me, 2025

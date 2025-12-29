@@ -10,4 +10,4 @@ Coding projects I'm currently working on:
 + Nothing, I'm lazy
 
 \
-Azumanga Daioh is peak
+Currently moving to [Codeberg](https://codeberg.org/tbored)

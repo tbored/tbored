@@ -10,4 +10,4 @@ Coding projects I'm currently working on:
 + Nothing, I'm lazy
 
 \
-Currently moving to [Codeberg](https://codeberg.org/tbored)
+## Currently moving to [Codeberg](https://codeberg.org/tbored)

@@ -1,13 +1,5 @@
 # Hi, I'm __tbored__
 
-I'm a bad programmer.
+## [Check out my website!](https://tbored.xyz/)
 
-\
-Programming languages I know:
-+ JavaScript
-
-Coding projects I'm currently working on:
-+ Nothing, I'm lazy
-
-
-## Currently moving to [Codeberg](https://codeberg.org/tbored)
+## I've moved to [Codeberg](https://codeberg.org/tbored)
